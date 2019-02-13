@@ -2,8 +2,7 @@
 import csv
 
 # assigne the file path to open 
-#/UTAUS201901DATA3/homework-instructions/03-Python/Instructions/PyBank/Resources/budget_data.csv
-#/Users/hishamhammour/Desktop/UTAUS201901DATA3/UTAUS201901DATA3/homework-instructions/03-Python/ExtraContent/Instructions/PyBoss/employee_data.csv
+
 open_file_path = "Resources/budget_data.csv"
 
 output_file = "budget_data_summery.txt"
